@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+
+img {
+	width: 140px;
+	height: 150px;
+}
+
+.imagenes li {
+	cursor: pointer;
+	display: inline-block;
+	list-style: none;
+	margin: 20px;
+}
+
+.informacion p {
+	display: block;
+}
+
+.informacion p .active {
+	display: block;
+}
